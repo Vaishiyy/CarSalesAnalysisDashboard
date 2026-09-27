@@ -6,3 +6,5 @@ The analysis focuses on key metrics including gross sales, revenue, customer act
 The analysis reveals a stable and diversified car sales business with consistent monthly revenue, balanced brand contributions, high demand for 
 Corolla and Civic models, and an efficient commission-based sales structure. Ford was the top brand in terms of revenue and the end of year 
 months posted stronger sales performance. Overall, the dealership has a healthy sales mix and is not overly dependent on any one brand or model. 
+
+<img width="994" height="575" alt="image" src="https://github.com/user-attachments/assets/0f586a22-3aea-452f-a425-1e1cddf8cbf1" />
